@@ -1,0 +1,1 @@
+window.alert("Warning: Your device has been hacked...... ")
